@@ -1,0 +1,16 @@
+{
+  "name": "iolite-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethjs-account": "^0.1.4",
+    "ethjs-iolite-signer": "file:../ethjs-signer",
+    "ethjs-provider-signer": "^0.1.4"
+  }
+}
